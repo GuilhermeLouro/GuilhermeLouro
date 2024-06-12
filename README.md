@@ -1,7 +1,7 @@
-###Hello there!😃
+### Hello there!😃
 
-###Im Guilherme Louro, studying web development at the moment and progressing in the programming world!
+### Im Guilherme Louro, studying web development at the moment and progressing in the programming world!
 
-###Learning Python, java, html and others!
+### Learning Python, java, html and others!
 
-###I may create another projects asides web development.
+### I may create another projects asides web development.
